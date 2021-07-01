@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(253, 252, 251);
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 15rem;
+}
+header h1{
+    font-size: 4rem;
+}
+#value{
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    color: rgb(17, 78, 78);
+}
+button{
+    font-size: 1.3rem;
+    margin: 1.4rem;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #000;
+    color: white;
+}
